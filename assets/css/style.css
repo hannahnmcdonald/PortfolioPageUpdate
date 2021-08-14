@@ -1002,28 +1002,38 @@ section {
 }
 
 .contact .social-links {
-  padding-bottom: 20px;
+  padding: 20px;
 }
 
 .contact .social-links a {
-  font-size: 18px;
+  font-size: 40px;
   display: inline-block;
   background: #fff;
   color: #2c4964;
   line-height: 0;
-  padding: 8px 0;
+  /* justify-content: space-between; */
+  /* padding: 8px 0;
   margin-right: 4px;
-  border-radius: 50%;
+  border-radius: 50%; */
   text-align: center;
+  /* padding: 20px; */
+  margin: 20px;
   width: 36px;
   height: 36px;
-  transition: 0.3s;
-  border: 1px solid #2c4964;
+  /* transition: 0.3s; */
+  /* border: 1px solid #2c4964; */
+}
+
+.social-links a:hover {
+  transition: transform 150ms;
+  transform: scale(1.15);
+  color:#3b408b;
 }
 
 .contact .social-links a:hover {
-  background:#2c4964;
-  color: #fff;
+  /* color:#3b408b; */
+  /* background-color: rgb(255.255.255, 0.5); */
+  /* transition: 1.3s; */
 }
 
 .contact .info {

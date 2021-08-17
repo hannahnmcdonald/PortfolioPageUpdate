@@ -8,10 +8,10 @@ A portfolio web page to display my work, resume, and a brief bio to show to empl
 
 Mobile Layout:
 
-![Mobile1](Mobile1.png)
-![Mobile2](Mobile2.png)
-![Mobile3](mobile3.png)
-![Mobile4](Mobile4.png)
+![Mobile1](./assets/img/Mobile1.png)
+![Mobile2](./assets/img/Mobile2.png)
+![Mobile3](./assets/img/mobile3.png)
+![Mobile4](./assets/img/Mobile4.png)
 
 
 # Credits

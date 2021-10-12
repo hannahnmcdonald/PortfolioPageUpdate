@@ -14,19 +14,10 @@ Mobile Layout:
 ![Mobile4](./assets/img/Mobile4.png)
 
 
-# Credits
+# Technologies
 
-Bootstrap! 
-
-It was so nice to work with a CSS framework this time around making my portfolio! I used bootstrap layouts and made some minor changes to the link icons and photos involved. 
-
-# Installation
-
-n/a
-
-# Usage
-
-n/a
+* Bootstrap
+* HTML/CSS
 
 # Questions?
 
